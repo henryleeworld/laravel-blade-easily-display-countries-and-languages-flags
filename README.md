@@ -1,4 +1,4 @@
-# Laravel 10 Blade 視圖的國家和語言國旗顯示
+# Laravel 11 Blade 視圖的國家和語言國旗顯示
 
 引入 outhebox 的 blade-flags 套件來擴增 Blade 視圖的國家和語言國旗顯示，可以將國旗渲染為元件或使用提供的 SVG（可縮放式向量圖形）圖示。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/hbiQrt4.png)
+![](https://i.imgur.com/jn8fuXw.png)
 > 國旗運用顏色、圖樣，傳遞國家的特色
